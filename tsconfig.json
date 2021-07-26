@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "es5",
+    "jsx": "react",
+    "allowJs": true,
+    "moduleResolution": "node",
+    "strict": true,                              
+    "noUnusedLocals": true,                      
+    "noUnusedParameters": true,                  
+    "noImplicitReturns": true,                   
+    "noFallthroughCasesInSwitch": true,          
+    "noUncheckedIndexedAccess": true,            
+    "noImplicitOverride": true,                  
+    "noPropertyAccessFromIndexSignature": true,  
+    "esModuleInterop": true,                     
+    "skipLibCheck": true,                        
+    "forceConsistentCasingInFileNames": true     
+  }
+}
